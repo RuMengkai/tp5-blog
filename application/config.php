@@ -91,7 +91,7 @@ return [
     // 是否开启路由
     'url_route_on'           => true,
     // 是否强制使用路由
-    'url_route_must'         => false,
+    'url_route_must'         => true,
     // 域名部署
     'url_domain_deploy'      => false,
     // 域名根，如.thinkphp.cn

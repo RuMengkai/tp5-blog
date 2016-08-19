@@ -25,5 +25,10 @@ return [
         'comments' => 'api/comments/comments',
         'comment_save' => 'api/comments/comment_save'
     ],
-    '' => 'home/index/index'
+    'home' => 'home/index/index',
+    'login' => 'home/index/index',
+    'register' => 'home/index/index',
+    'blog/:id' => 'home/index/index',
+    'edit/[:id]' => 'home/index/index',
+    
 ];
