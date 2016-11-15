@@ -30,5 +30,6 @@ return [
     'register' => 'home/index/index',
     'blog/:id' => 'home/index/index',
     'edit/[:id]' => 'home/index/index',
+    '' => 'home/index/index',
     
 ];

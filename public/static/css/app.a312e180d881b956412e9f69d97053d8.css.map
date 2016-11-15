@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///webpack:///src/App.vue"],"names":[],"mappings":"AAyBA,iBACI,oBAAsB","file":"static/css/app.a312e180d881b956412e9f69d97053d8.css","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\na:hover, a:active {\n    text-decoration: none;\n}\n\n\n\n/** WEBPACK FOOTER **\n ** webpack:///src/App.vue\n **/"],"sourceRoot":""}
