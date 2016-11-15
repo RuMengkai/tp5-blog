@@ -12,6 +12,7 @@
 $ git clone https://github.com/xwlyy/tp5-blog.git
 $ cd tp5-blog
 $ composer install
+$ mysql -uroot -p < vueblog.sql
 ```
 
 ### 多站点配置
