@@ -5,7 +5,6 @@ thinkphp/
 vendor/
 access.log
 build.php
-composer.json
 CONTRIBUTING.md
 error.log
 LICENSE.txt
